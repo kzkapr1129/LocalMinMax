@@ -1,1 +1,2 @@
 *.mqh diff=utf16
+*.mq5 diff=utf16
